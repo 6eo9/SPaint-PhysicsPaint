@@ -10,6 +10,9 @@ I have only tested it on my pc, which has Arch Linux, HyprLand.
 <img width="970" height="536" alt="image" src="https://github.com/user-attachments/assets/abca65c3-0a15-4cee-9baa-74044449129c" />
 
 # Installation
+## Method 1 : Direct download from Github releases page.
+## Option 2: Manual install
+
 ## Requirements
 Linux (tested on Arch Linux with Hyprland)
 Rust and Cargo
